@@ -1,0 +1,9 @@
+Ques. Explain the concept of Recycle bin.
+
+Ans. 1.The Recycle Bin is a location where deleted files or folders are temporarily stored.
+     2. When a file or folder is deleted, it will remain in the Recycle Bin until you empty the Recycle Bin.
+        If your hard drive is running low on disk space or has reached the Recycle Bin storage limit,
+        files will begin being removed from the Recycle Bin.
+     3. The Recycle Bin  is not a software program. The Recycle Bin is a feature of Windows 
+        that you can think of as a folder on the computer that stores all deleted files and folders.
+     4. Files are not removed when they are moved to the Recycle Bin, they are still taking up hard drive space.
