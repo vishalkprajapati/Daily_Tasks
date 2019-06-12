@@ -1,0 +1,9 @@
+Ques. How to show contents of the Downloads folder on Desktop as default?
+
+Ans. 1. Navigate into Home.
+     2. Press 'Ctrl+H' to show all the hidden files.
+     3. Find '.config' folder and open it.
+     4. Find 'user_dirs.dirs' file and open it.
+     5. Change 'XDG_DOWNLOAD_DIR="$HOME/Downloads"' to 'XDG_DOWNLOAD_DIR="$HOME/"'.
+     6. Save the file.
+     7. Done.
